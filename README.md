@@ -14,36 +14,47 @@ Designed and implemented an enterprise-grade secure email communication system t
 
 ## Tools & Technologies Used
 
-- Ubuntu Server
-- Email Security Controls
-- Email Encryption Technologies
-- SMTP Configuration
-- Authentication Mechanisms
-- Linux Administration
-- Virtual Lab Environment
+* SPF (Sender Policy Framework)
+* DKIM (DomainKeys Identified Mail)
+* DMARC (Domain-based Message Authentication, Reporting & Conformance)
+* TLS (Transport Layer Security)
+* PGP (Pretty Good Privacy) Encryption
+* Postfix Mail Server
+* Ubuntu Linux
+* OpenSSL
 
 ## What Was Done
 
-- Configured a secure email communication environment within a virtual lab
-- Implemented email encryption to protect sensitive communications
-- Applied authentication mechanisms to verify sender identity
-- Configured security controls to reduce unauthorized access risks
-- Tested secure email transmission and message integrity
-- Validated confidentiality and authentication requirements
-- Documented implementation procedures, security controls, and testing results
+* Designed and implemented a secure email communication environment.
+* Configured SPF records to help prevent email spoofing and unauthorized email sending.
+* Implemented DKIM to digitally sign outgoing emails and verify message integrity.
+* Applied DMARC policies to improve email authentication and reporting.
+* Enabled TLS encryption to secure email transmission between mail servers.
+* Demonstrated PGP encryption for protecting email content and ensuring confidentiality.
+* Configured and secured the Postfix mail server on Ubuntu Linux.
+* Performed testing and validation of email authentication and encryption mechanisms.
+* Verified secure email delivery while maintaining confidentiality, integrity, and authenticity.
+* Documented configuration steps, testing procedures, and security outcomes.
 
-## Outcome
+## Key Outcomes
 
-Successfully designed and implemented a secure email communication system within a controlled virtual environment. The solution ensured secure message transmission, improved authentication, enhanced data protection, and reduced risks associated with email-based attacks.
+* Improved email security through authentication and encryption controls.
+* Reduced risks related to email spoofing and phishing attacks.
+* Demonstrated secure email transmission using industry-standard technologies.
+* Enhanced understanding of enterprise email security architecture and best practices.
+* Successfully validated secure communication between email systems.
 
-## Project Report
+## Skills Demonstrated
 
-Complete project documentation is available in the PDF file included in this repository.
-
-## Author
-
-Mohd Awais Khan
-
-Master Diploma in Cyber Security & Ethical Hacking
-
-Boston Institute of Analytics
+* Email Security
+* Email Authentication
+* Secure Communication
+* SPF Configuration
+* DKIM Configuration
+* DMARC Policy Management
+* TLS Encryption
+* PGP Encryption
+* Postfix Administration
+* Linux System Administration
+* Security Testing
+* Technical Documentation
