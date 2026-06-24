@@ -18,43 +18,32 @@ Designed and implemented an enterprise-grade secure email communication system t
 * DKIM (DomainKeys Identified Mail)
 * DMARC (Domain-based Message Authentication, Reporting & Conformance)
 * TLS (Transport Layer Security)
-* PGP (Pretty Good Privacy) Encryption
+* PGP (Pretty Good Privacy)
 * Postfix Mail Server
 * Ubuntu Linux
 * OpenSSL
 
 ## What Was Done
 
-* Designed and implemented a secure email communication environment.
-* Configured SPF records to help prevent email spoofing and unauthorized email sending.
-* Implemented DKIM to digitally sign outgoing emails and verify message integrity.
-* Applied DMARC policies to improve email authentication and reporting.
-* Enabled TLS encryption to secure email transmission between mail servers.
-* Demonstrated PGP encryption for protecting email content and ensuring confidentiality.
+* Configured SPF records to help prevent email spoofing.
+* Implemented DKIM to digitally sign emails and verify message integrity.
+* Applied DMARC policies to strengthen email authentication and reporting.
+* Enabled TLS encryption to secure email transmission between systems.
+* Demonstrated PGP encryption for protecting email confidentiality.
 * Configured and secured the Postfix mail server on Ubuntu Linux.
-* Performed testing and validation of email authentication and encryption mechanisms.
-* Verified secure email delivery while maintaining confidentiality, integrity, and authenticity.
-* Documented configuration steps, testing procedures, and security outcomes.
+* Tested email authentication and encryption mechanisms.
+* Verified secure email delivery using industry-standard security controls.
 
 ## Key Outcomes
 
 * Improved email security through authentication and encryption controls.
-* Reduced risks related to email spoofing and phishing attacks.
+* Reduced risks associated with email spoofing and phishing attacks.
 * Demonstrated secure email transmission using industry-standard technologies.
 * Enhanced understanding of enterprise email security architecture and best practices.
 * Successfully validated secure communication between email systems.
 
-## Skills Demonstrated
+## Author
 
-* Email Security
-* Email Authentication
-* Secure Communication
-* SPF Configuration
-* DKIM Configuration
-* DMARC Policy Management
-* TLS Encryption
-* PGP Encryption
-* Postfix Administration
-* Linux System Administration
-* Security Testing
-* Technical Documentation
+**Awais Khan**
+Cybersecurity & Ethical Hacking Intern
+GitHub: https://github.com/awaiskhannetwork
